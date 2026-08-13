@@ -1,4 +1,5 @@
 # Hi, I'm Sai Saketh Ram 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&width=600&lines=AI+Engineer;IEEE+Published+Author;NCC+Cadet;Marathon+Runner;Defence+Aspirant)]()
 
 <div align="center">
 
