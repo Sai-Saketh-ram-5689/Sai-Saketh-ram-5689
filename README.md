@@ -4,7 +4,7 @@
 
 ### AI Engineer | Backend Developer | Defence Aspirant
 
-📍 India • 💼 Program Analyst Trainee @ Cognizant
+📍 India • 💼 Completed Internship @ Cognizant
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=18\&pause=1000\&center=true\&width=700\&lines=AI+Engineer;Backend+Developer;Generative+AI+Enthusiast;Marathon+Runner;Defence+Aspirant)]()
 
