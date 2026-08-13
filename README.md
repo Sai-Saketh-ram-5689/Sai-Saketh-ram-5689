@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### AI Engineer | Backend Developer | Defence Aspirant
+### AI Engineer | Backend Developer  | NCC Cadet | Defence Aspirant
 
 📍 India • 💼 Program Analyst Trainee @ Cognizant
 
