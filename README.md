@@ -74,10 +74,9 @@ AI-assisted product recommendation and support solution for enhanced customer ex
 
 Multi-agent AI assignment implementation featuring orchestration, evaluation workflows and agent collaboration.
 
-### ☕ Casekaro Java
+### ☕ Casekaro Automation Framework
 
-Java-based application showcasing object-oriented programming and backend development concepts.
-
+Java-based end-to-end e-commerce test automation framework built using Playwright, Cucumber BDD, and JUnit 5 with UI, API, and network-level validation.
 ---
 
 ## 🏆 Achievements
