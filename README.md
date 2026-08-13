@@ -74,13 +74,9 @@ AI-assisted product recommendation and support solution.
 
 ## 📈 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sai-Saketh-ram-5689&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sai-Saketh-ram-5689\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Saketh-ram-5689\&layout=compact\&theme=tokyonight)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Saketh-ram-5689&layout=compact&theme=tokyonight)
 
 ---
 
